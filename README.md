@@ -1,0 +1,3 @@
+PORT=3000
+DB_URL=mongodb+srv://abineshkannan98:abineshkannan98@abinesh.nimy0mz.mongodb.net/MongoDB_learnings
+ACCESS_TOKEN = xvQ1nLWwn5wChc5ysBpFnV5VEgGt5xKZ+XdBlJhVrlM5FPjM/EY7WemVJUZ0PkYTWm5aRG9nVE
